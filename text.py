@@ -5,7 +5,7 @@ import nest_asyncio
 
 nest_asyncio.apply()
 
-url = "http://127.0.0.1:9000/run_query/"
+url = ""
 data = {
     "query": "сколько общежитий в университете?",
     "result_column": "Answer"
