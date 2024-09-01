@@ -2,7 +2,7 @@ import json
 import requests
 
 
-url = "http://172.29.0.2:8030/run_query/"
+url = ""
 # url = "http://localhost:8030/run_query/"
 data = {
     "query": 'Сколько корпусов?',
