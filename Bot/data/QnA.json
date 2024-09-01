@@ -1,0 +1,968 @@
+[
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий?",
+        "number": "Пять общежитий."
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "Пять общежитий."
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько лет Сибгму",
+        "number": "Сибгатулин, Сибгатулина."
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "Пять общежитий."
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Gg",
+        "number": "{\"result\":\"It seems like you want me to read the passage and answer a question about Russia, but there is no specific question provided.\\n\\nHowever, I can try to extract some information from the passage that might be relevant to a question about Russia. The passage appears to be related to immigration procedures in Russia, specifically for foreign citizens who are planning to stay in Russia temporarily or permanently.\\n\\nIf you could provide the actual question, I'll do my best to answer it based on the passage!\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Привет",
+        "number": "{\"result\":\"It seems like you've provided a passage about the Siberian State Medical University (SibGMU) in Russia, but there is no question at the end.\\n\\nHowever, I can try to extract some information from the passage and provide an answer based on that. If you'd like me to do so, please let me know what specific question you would like me to answer related to Russia or SibGMU.\\n\\nIf not, it seems like there's no question to answer.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1d9cf5ed-c0e5-4542-95a8-000e7f23ef88",
+        "chat_id": 979904163,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Привет",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "ывапыва",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "ывапыва",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "ывпывр",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "gsdfgsdfg",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "asgfsdfg",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "фывавап",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "вапывап",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "ыапрвап",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfgsdf",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "gsdfgsd",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfgsdf",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"result\":\"Сколько общежитий в СибГМУ?\\n\\nОтвет: 5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"result\":\"Сколько общежитий в СибГМУ?\\n\\nОтвет: 5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"result\":\"Сколько общежитий в СибГМУ?\\n\\nОтвет: 5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете",
+        "number": "{\"result\":\"Пяти.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Кто ректор в сибгму",
+        "number": "{\"result\":\"Кто ректор в сибгму? \\n\\nОтвет: Вопрос не задан в тексте.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Какого числа заселение",
+        "number": "{\"result\":\"Какого числа заселение? \\n\\nОтвет: 28 августа.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"result\":\"Сколько общежитий в СибГМУ?\\n\\nОтвет: 5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"result\":\"Сколько общежитий в СибГМУ?\\n\\nОтвет: 5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfhgdfgh",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfgsdf",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "dfhjfgh",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"detail\":\"This event loop is already running\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"result\":\"Сколько общежитий в СибГМУ?\\n\\nОтвет: 5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в сибгму",
+        "number": "{\"result\":\"Сколько общежитий в СибГМУ?\\n\\nОтвет: 5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfgsdfg",
+        "number": "{\"result\":\"It seems like you didn't actually ask a question about Russia, but rather provided a passage with information about procedures for foreign citizens in Russia.\\n\\nHowever, I can try to help you extract some information from the passage if that's what you're looking for. If not, please feel free to rephrase your question and I'll do my best to assist you!\\n\\nIf you'd like me to answer a hypothetical question based on the passage, here are a few options:\\n\\n* What is the cost of medical examination in Russia?\\n* How long does a medical examination take in Russia?\\n* Where can foreign citizens register for a medical examination in Tomsk, Russia?\\n\\nPlease let me know if any of these questions align with what you're looking for!\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "erherh",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "erherh",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "erherh",
+        "number": "{\"detail\":\"This event loop is already running\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "herhe",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "😲87",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "rthrtj",
+        "number": "{\"detail\":\"This event loop is already running\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "io;'io",
+        "number": "{\"detail\":\"This event loop is already running\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "erherh",
+        "number": "{\"detail\":\"This event loop is already running\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "tyktyk",
+        "number": "{\"detail\":\"This event loop is already running\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "erherh",
+        "number": "{\"detail\":\"This event loop is already running\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "yulyul",
+        "number": "{\"detail\":\"This event loop is already running\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "erherh",
+        "number": "{\"detail\":\"this event loop is already running.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "rthrtj",
+        "number": "{\"detail\":\"All connection attempts failed\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "jtrjrtj",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "thtrhrthjt",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "jtyj",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "grg",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "gnfgnfgn",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "ukyulku",
+        "number": "{\"result\":\"It seems like you want me to read the passage and answer a question about Russia, but there is no specific question provided. However, I can try to extract some information from the passage.\\n\\nThe passage appears to be related to the procedures for foreign citizens to register with the authorities in Russia, specifically in the Tomsk region. It mentions requirements for medical examination, fingerprinting, and registration with the police.\\n\\nIf you could provide a specific question about Russia, I'll do my best to answer it based on the passage.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "rgherhe",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "erherh",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "tjtykjtyk",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "rherh",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "asgsfg",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "asdfasd",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfgsdfg",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "gsdfgsd",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfgsdfg",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "rtyjrtyj",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "asdfasdf",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfgsdfg",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "asdfasd",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "{\"result\":\"Пять общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "вапрвап",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdghsfgh",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет. \\n\\nВопрос: Сколько корпусов в Сибму? \\n\\nОтвет: В СибГМУ 7 корпусов.\"}"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет. \\n\\nВопрос: Сколько корпусов в Сибму? \\n\\nОтвет: В университете несколько корпусов, но конкретное количество не указано в предоставленном тексте.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "sdfgsdf",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"Пяти.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Сколько общежитий в университете",
+        "number": "{\"result\":\"Сколько общежитий в университете?\\n\\nОтвет: 5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет. \\n\\nВопрос: Сколько корпусов в Сибму? \\n\\nОтвет: В СибГМУ 7 корпусов (по адресам, указанным в тексте).\"}"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет. \\n\\nВопрос: Сколько корпусов в Сибму? \\n\\nОтвет: В СибГМУ 7 корпусов (по адресам, указанным в тексте).\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "что расскажешь?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет. \\n\\nВопрос: Сколько корпусов в Сибму? \\n\\nОтвет: В СибГМУ 7 корпусов (по адресам, указанным в тексте).\"}"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет.\\n\\nВопрос: Сколько корпусов в Сибму?\\n\\nОтвет: В университете несколько корпусов, но конкретное количество не указано в предоставленном тексте. Однако в списке контактной информации указаны адреса и телефоны различных факультетов и институтов, расположенных на разных территориях.\"}"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет. \\n\\nВопрос: Сколько корпусов в Сибму? \\n\\nОтвет: В СибГМУ 7 корпусов (по адресам, указанным в тексте).\"}"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет. \\n\\nВопрос: Сколько корпусов в Сибму? \\n\\nОтвет: В СибГМУ 7 корпусов.\"}"
+    },
+    {
+        "uid": "309f5fae-aad3-4f94-bf11-4044ae2fd27b",
+        "chat_id": 840241824,
+        "question": "Сколько корпусов в Сибму?",
+        "number": "{\"result\":\"СибГМУ - это Сибирский государственный медицинский университет. \\n\\nВопрос: Сколько корпусов в Сибму? \\n\\nОтвет: В СибГМУ 7 корпусов (по адресам, указанным в тексте).\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, I will answer your question:\\n\\nколько общежитий в СибГМУ?\\n\\nThe answer is: 5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"The question is: \\\"колько общежитий в Сибгму?\\\"\\n\\nAccording to the passage, the answer is:\\n\\n\\\"Университет имеет 5 общежитий...\\\"\\n\\nSo, there are 5 dormitories in SibGMU.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, I will answer your question:\\n\\nколько общежитий в СибГМУ?\\n\\nThe answer is: 5 общежития.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, I will answer your question:\\n\\nколько общежитий в СибГМУ?\\n\\nThe answer is: 5 общежития.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, I will answer your question:\\n\\nколько общежитий в СибГМУ?\\n\\nThe answer is: 5 общежития.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"The question is: \\\"колько общежитий в Сибгму?\\\"\\n\\nAccording to the passage, the answer is:\\n\\n\\\"Университет имеет 5 общежитий...\\\"\\n\\nSo, there are 5 dormitories in SibGMU.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, the answer to your question is:\\n\\n\\\"5 общежитий\\\"\\n\\nWhich translates to \\\"5 dormitories\\\".\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, I will answer your question:\\n\\nколько общежитий в СибГМУ?\\n\\nThe answer is: 5 общежития.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, I will answer your question:\\n\\nколько общежитий в СибГМУ?\\n\\nThe answer is: 5 общежития.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, the answer to the question \\\"колько общежитий в СибГМУ?\\\" (How many dormitories are there in SibGMU?) is:\\n\\n5 общежитий (5 dormitories)\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"Based on the passage, I will answer your question:\\n\\nколько общежитий в Сибгму?\\n\\nThe answer is: 5 общежития.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "колько общежитий в Сибгму?",
+        "number": "{\"result\":\"The answer to the question \\\"колько общежитий в СибГМУ?\\\" (How many dormitories are there in SibGMU?) is:\\n\\n5 общежитий (5 dormitories)\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"Пяти.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"Пяти.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"Пять общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "1851e7c7-1d18-4754-bae1-d3f316ac4330",
+        "chat_id": 668437065,
+        "question": "Сколько общежитий в Сибгму?",
+        "number": "{\"result\":\"5 общежитий.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Какого числа заселение первокурсников",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Какого числа заселение первокурсников",
+        "number": "{\"result\":\"Какого числа заселение первокурсников? \\n\\nОтвет: 28 августа.\"}"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Что нужно брать первокурснику?",
+        "number": "Internal Server Error"
+    },
+    {
+        "uid": "02038c2d-cf7b-434e-8f93-9060664411bd",
+        "chat_id": 1159885417,
+        "question": "Что нужно брать первокурснику?",
+        "number": "{\"result\":\"What a long passage!\\n\\nAccording to the text, for a first-year student (первокурснику), you should bring:\\n\\n* 2 халата с длинным рукавом (two long-sleeved shirts)\\n* Белая шапочка (a white hat) - unless you're in the институт интегративного здравоохранения (integrated healthcare institute), in which case you don't need it\\n* Сменная обувь (extra shoes)\\n* Тетради (notebooks) - lots of them!\\n* Запас масок и бахил (a supply of masks and gloves)\\n* Зимняя и летняя спортивная форма (winter and summer sports uniforms)\\n* Вся необходимая вам канцелярия (all the necessary stationery)\\n\\nNote that some of these items are specific to certain faculties, such as the педиатрический и лечебный факультеты (pediatric and medical faculties) or the фармацевтический факультет (pharmaceutical faculty).\"}"
+    }
+]

@@ -1,0 +1,76 @@
+services:
+  ollama-api:
+    # restart: always
+    build:
+      context: ./
+    command: >
+      sh -c "curl -fsSL https://ollama.com/install.sh | sh
+      && python3 -u compile.py
+      && python3 -u api.py"
+    ports:
+      - '8030:8030'
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11435
+    volumes:
+      - ./:/RAG_system
+    networks:
+      - ollama-bot
+
+networks:
+  ollama-bot:
+    external: true
+
+
+# version: '3.8'
+
+# services:
+#   ollama:
+#     image: ollama/ollama:latest
+#     ports:
+#       - 11434:11434
+#     volumes:
+#       - .:/code
+#       - ./ollama/ollama:/root/.ollama
+#     container_name: ollama
+#     pull_policy: always
+#     tty: true
+#     healthcheck:
+#       test: ["CMD", "ollama", "--version"]
+#       interval: 30s
+#       timeout: 10s
+#       retries: 3
+#     environment:
+#       - OLLAMA_KEEP_ALIVE=24h
+#       - OLLAMA_HOST=0.0.0.0
+#       - API_BASE_URL=http://ollama-api:8030
+#     networks:
+#       - ollama-bot
+
+
+#   ollama-api:
+#     restart: always
+#     build:
+#       context: ./
+#     expose:
+#       - 8030/tcp
+#     ports:
+#       - '8030:8030'
+#     environment:
+#       - OLLAMA_BASE_URL=http://host.docker.internal:11434
+#       # - 'OLLAMA_BASE_URL=http://ollama:11434'
+#     extra_hosts:
+#       - host.docker.internal:host-gateway  
+#     volumes:
+#       - ./:/RAG_system
+#     networks:
+#       - ollama-bot
+#     depends_on:
+#       - ollama
+
+# networks:
+#   ollama-bot:
+#     external: true
+
+
+
+ 

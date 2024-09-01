@@ -1,0 +1,23 @@
+version: '3.2'
+
+services:
+  tg_ollama:
+    restart: always
+    build:
+      context: ./
+    ports:
+      - '8015:8015'
+    volumes:
+      - ./:/Bot
+    networks:
+      - ollama-bot
+
+networks:
+  ollama-bot:
+    external:
+      name: ollama-bot
+      
+volumes:
+  kinesis:
+    external: true
+
